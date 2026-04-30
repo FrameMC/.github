@@ -1,7 +1,8 @@
 # Frame Development Github
-## Minecraft Event creators
-Notre but ? Faire les meilleurs évènements Minecraft du monde.
+## Minecraft servers creators
+Notre but ? Faire les meilleurs serveurs Minecraft du monde.
 
+--- 
 ## Nos maitrises :
 - Evènementiel Minecraft
 - Maps Minecraft
@@ -12,7 +13,7 @@ Notre but ? Faire les meilleurs évènements Minecraft du monde.
 - Modèles 3D
 et bien plus !
 
-## Event :
+## Mcube & Frame | Event :
 [https://github.com/McubeMC ](https://github.com/McubeMC)
 - Depuis la restructurisation d'Mcube, la partie serveur est maintenant dans Frame. Les évènements restent dans Mcube.
 
