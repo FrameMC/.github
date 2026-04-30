@@ -13,7 +13,7 @@ Notre but ? Faire les meilleurs évènements Minecraft du monde.
 et bien plus !
 
 ## Note
-FrameMC est un projet dérivé autorisé du projet https://github.com/McubeMC. \
-Des petites ressemblances entre ces deux projets sont possibles.
+FrameMC est maintenant la partie serveur de Mcube. \
+Depuis la séparation des deux structures.
 
 COPYRIGHT © FRAMEMC 2026 - Tous droits réservés.
