@@ -12,8 +12,8 @@ Notre but ? Faire les meilleurs évènements Minecraft du monde.
 - Modèles 3D
 et bien plus !
 
-## Note
-FrameMC est maintenant la partie serveur de Mcube. \
-Depuis la séparation des deux structures.
+## Event :
+[https://github.com/McubeMC ](https://github.com/McubeMC)
+- Depuis la restructurisation d'Mcube, la partie serveur est maintenant dans Frame. Les évènements restent dans Mcube.
 
 COPYRIGHT © FRAMEMC 2026 - Tous droits réservés.
