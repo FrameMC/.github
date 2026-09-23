@@ -1,6 +1,5 @@
-# Frame Development Github
-## Minecraft servers creators
-Notre but ? Faire les meilleurs serveurs Minecraft du monde.
+# McubeMC — FrameMC
+Révolutionner l'ère des événements Minecraft. 
 
 --- 
 ## Nos maitrises :
@@ -14,8 +13,7 @@ Notre but ? Faire les meilleurs serveurs Minecraft du monde.
 - Modèles 3D
 et bien plus !
 
-## Mcube & Frame | Event :
-[https://github.com/McubeMC ](https://github.com/McubeMC)
-- Depuis la restructurisation d'Mcube, la partie serveur est maintenant dans Frame. Les évènements restent dans Mcube.
+## McubeMC :
+FrameMC est une division du projet Mcube pour contenir spécifiquement les outils internes d'Mcube.
 
-COPYRIGHT © FRAMEMC 2026 - Tous droits réservés.
+COPYRIGHT © MCUBEMC 2026 - Tous droits réservés.
