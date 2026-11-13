@@ -14,6 +14,6 @@ Révolutionner l'ère des événements Minecraft.
 et bien plus !
 
 ## McubeMC :
-FrameMC est une division du projet Mcube pour contenir spécifiquement les outils internes d'Mcube.
+FrameMC est une division du projet Mcube pour contenir spécifiquement les outils internes d'Mcube et nos serveurs Minecraft.
 
 COPYRIGHT © MCUBEMC 2026 - Tous droits réservés.
